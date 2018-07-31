@@ -1,7 +1,7 @@
 # allegheny-county-food-safety
 Analysis of food facility health/safety violations data.
 
-NBViewer: 
+NBViewer: http://nbviewer.jupyter.org/github/ZacharyGoldstein/allegheny-county-food-safety/blob/master/Top%20Food%20Safety%20Violators%20Allegheny%20County.ipynb
 
 WPRDC data: https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations
 
